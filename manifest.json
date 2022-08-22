@@ -1,0 +1,30 @@
+{
+    "short_name": "Weather",
+    "name": "olá mundo",
+    "icons": [
+      {
+        "src": "/icon.svg",
+        "type": "image/svg+xml",
+        "sizes": "512x512"
+      }
+    ],
+
+    "background_color": "#3367D6",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "description": "Weather forecast information",
+
+    "screenshots": [
+      {
+        "src": "/icon.svg",
+        "type": "image/svg+xml",
+        "sizes": "540x720"
+      },
+      {
+        "src": "/icon.svg",
+        "type": "image/svg+xml",
+        "sizes": "540x720"
+      }
+    ]
+
+  }
